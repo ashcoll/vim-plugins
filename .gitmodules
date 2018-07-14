@@ -4,3 +4,6 @@
 [submodule "start/nerdtree"]
 	path = start/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "test/t"]
+	path = test/t
+	url = git@github.com:ashcoll/test.git
