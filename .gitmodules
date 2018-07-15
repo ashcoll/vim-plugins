@@ -7,3 +7,6 @@
 [submodule "test/t"]
 	path = test/t
 	url = git@github.com:ashcoll/test.git
+[submodule "start/vim-devicons"]
+	path = start/vim-devicons
+	url = git@github.com:ryanoasis/vim-devicons.git
