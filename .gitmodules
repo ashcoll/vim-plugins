@@ -16,3 +16,6 @@
 [submodule "start/nerdcommenter"]
 	path = start/nerdcommenter
 	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "start/airline"]
+	path = start/airline
+	url = git@github.com:vim-airline/vim-airline.git
