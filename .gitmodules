@@ -10,3 +10,6 @@
 [submodule "test/ashcoll-test"]
 	path = test/ashcoll-test
 	url = git@github.com:ashcoll/ashcoll.git
+[submodule "start/ctrlp"]
+	path = start/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
