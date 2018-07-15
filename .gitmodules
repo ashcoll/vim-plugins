@@ -13,3 +13,6 @@
 [submodule "start/ctrlp"]
 	path = start/ctrlp
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "start/nerdcommenter"]
+	path = start/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
