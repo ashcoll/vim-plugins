@@ -19,3 +19,6 @@
 [submodule "start/airline"]
 	path = start/airline
 	url = git@github.com:vim-airline/vim-airline.git
+[submodule "start/ack"]
+	path = start/ack
+	url = git@github.com:mileszs/ack.vim.git
